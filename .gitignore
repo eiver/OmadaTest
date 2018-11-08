@@ -1,0 +1,5 @@
+*.suo
+.vs/*
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/
